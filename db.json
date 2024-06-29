@@ -4,43 +4,61 @@
       "id": 1,
       "imagen": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Game-Boy-FL.jpg",
       "titulo": "Game Boy Classic",
-      "precio": "$ 60"
+      "precio": "$ 60,00"
     },
     {
       "id": 2,
       "imagen": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Game-Boy-FL.jpg",
       "titulo": "Game Boy Classic",
-      "precio": "$ 60"
+      "precio": "$ 60,00"
     },
     {
       "id": 3,
       "imagen": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Game-Boy-FL.jpg",
       "titulo": "Game Boy Classic",
-      "precio": "$ 60"
+      "precio": "$ 60,00"
     },
     {
       "id": 4,
       "imagen": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Game-Boy-FL.jpg",
       "titulo": "Game Boy Classic",
-      "precio": "$ 60"
+      "precio": "$ 60,00"
     },
     {
       "id": 5,
       "imagen": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Game-Boy-FL.jpg",
       "titulo": "Game Boy Classic",
-      "precio": "$ 60"
+      "precio": "$ 60,00"
     },
     {
       "id": 6,
       "imagen": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Game-Boy-FL.jpg",
       "titulo": "Game Boy Classic",
-      "precio": "$ 60"
+      "precio": "$ 60,00"
     },
     {
       "id": 7,
       "imagen": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Game-Boy-FL.jpg",
       "titulo": "Game Boy Classic",
-      "precio": "$ 60"
+      "precio": "$ 60,00"
+    },
+    {
+      "id": 8,
+      "imagen": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Game-Boy-FL.jpg",
+      "titulo": "Game Boy Classic",
+      "precio": "$ 60,00"
+    },
+    {
+      "id": 9,
+      "imagen": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Game-Boy-FL.jpg",
+      "titulo": "Game Boy Classic",
+      "precio": "$ 60,00"
+    },
+    {
+      "id": 10,
+      "imagen": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Game-Boy-FL.jpg",
+      "titulo": "Game Boy Classic",
+      "precio": "$ 60,00"
     }
   ]
 }

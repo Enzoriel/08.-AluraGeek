@@ -1,12 +1,15 @@
-import { conexionApi } from "./main.js";
+import { conexionApi } from "./conexionAPI.js";
 
 function crearCard(imagen, titulo, precio) {
   const card = document.createElement("li");
   card.className = "item__card";
   card.innerHTML = `
-    <img src="${imagen}" />
+    <img src="${imagen}" class="item__ico"/>
     <p class="titulo__producto">${titulo}</p>
+    <div class="precio__productos__contenedor">
     <p class="precio__producto">${precio}</p>
+    <img src="../img/eliminar_item.svg"/>
+    </div>
     `;
   return card;
 }

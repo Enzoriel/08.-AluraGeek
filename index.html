@@ -6,29 +6,39 @@
     <link rel="stylesheet" href="./css/reset.css" />
     <link rel="stylesheet" href="./css/style.css" />
     <title>AluraGeek</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;1,100;1,200;1,300;1,400;1,500;1,600;1,700&family=Press+Start+2P&display=swap"
+      rel="stylesheet"
+    />
   </head>
   <body>
     <div class="encabezado">
-      <header>AluraGeek</header>
+      <header>
+        <h1>AluraGeek</h1>
+      </header>
     </div>
-    <section class="productos__contenedor">
-      <h2>Mis productos</h2>
-      <div class="item__productos">
-        <ul class="card__item" data-productos></ul>
-      </div>
-    </section>
-    <section class="agregar__producto">
-      <h2>Agregar producto:</h2>
-      <div class="datos__producto">
-        <p>Nombre...</p>
-        <p>Precio...</p>
-        <p>Imagen...</p>
-      </div>
-      <div class="botones__producto">
-        <button>Enviar</button>
-        <button>Limpiar</button>
-      </div>
-    </section>
+    <div class="contenedor">
+      <section class="productos__contenedor">
+        <h2>MIS PRODUCTOS:</h2>
+        <div class="item__productos">
+          <ul class="card__contenedor" data-productos></ul>
+        </div>
+      </section>
+      <section class="agregar__producto">
+        <h2>AGREGAR PRODUCTOS:</h2>
+        <div class="datos__producto">
+          <p>Nombre...</p>
+          <p>Precio...</p>
+          <p>Imagen...</p>
+        </div>
+        <div class="botones__producto">
+          <button>Enviar</button>
+          <button>Limpiar</button>
+        </div>
+      </section>
+    </div>
     <script src="./js/listarProducto.js" type="module"></script>
   </body>
 </html>
