@@ -16,6 +16,7 @@
   <body>
     <div class="encabezado">
       <header>
+        <img src="./img/header.png" alt="header" />
         <h1>AluraGeek</h1>
       </header>
     </div>
@@ -27,11 +28,17 @@
         </div>
       </section>
       <section class="agregar__producto">
-        <h2>AGREGAR PRODUCTOS:</h2>
+        <h2>AGREGAR PRODUCTO:</h2>
         <div class="datos__producto">
-          <p>Nombre...</p>
-          <p>Precio...</p>
-          <p>Imagen...</p>
+          <label>
+            <input placeholder="nombre..." type="text" required />
+          </label>
+          <label>
+            <input placeholder="precio..." type="number" required />
+          </label>
+          <label>
+            <input placeholder="imagen..." type="text" required />
+          </label>
         </div>
         <div class="botones__producto">
           <button>Enviar</button>
@@ -41,4 +48,12 @@
     </div>
     <script src="./js/listarProducto.js" type="module"></script>
   </body>
+  <footer class="footer">
+    <div>
+      <img src="./img/header.png" alt="footer" />
+      <h2>AluraGeek</h2>
+    </div>
+    <p>Desarrollado por Enzo</p>
+    <p>Alura Latam - 2024</p>
+  </footer>
 </html>
