@@ -181,3 +181,24 @@ footer p:last-child {
   margin-top: 20px;
   font-weight: 50;
 }
+
+@media (max-width: 1024px) {
+  .contenedor {
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .productos__contenedor {
+    width: 100%;
+  }
+
+  .card__contenedor {
+    justify-content: space-around;
+  }
+
+  .agregar__producto {
+    width: 100%;
+    max-width: 600px;
+  }
+}

@@ -1,64 +1,16 @@
 {
   "producto": [
     {
-      "id": 1,
+      "id": "6",
       "imagen": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Game-Boy-FL.jpg",
       "titulo": "Game Boy Classic",
       "precio": "$ 60,00"
     },
     {
-      "id": 2,
-      "imagen": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Game-Boy-FL.jpg",
-      "titulo": "Game Boy Classic",
-      "precio": "$ 60,00"
-    },
-    {
-      "id": 3,
-      "imagen": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Game-Boy-FL.jpg",
-      "titulo": "Game Boy Classic",
-      "precio": "$ 60,00"
-    },
-    {
-      "id": 4,
-      "imagen": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Game-Boy-FL.jpg",
-      "titulo": "Game Boy Classic",
-      "precio": "$ 60,00"
-    },
-    {
-      "id": 5,
-      "imagen": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Game-Boy-FL.jpg",
-      "titulo": "Game Boy Classic",
-      "precio": "$ 60,00"
-    },
-    {
-      "id": 6,
-      "imagen": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Game-Boy-FL.jpg",
-      "titulo": "Game Boy Classic",
-      "precio": "$ 60,00"
-    },
-    {
-      "id": 7,
-      "imagen": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Game-Boy-FL.jpg",
-      "titulo": "Game Boy Classic",
-      "precio": "$ 60,00"
-    },
-    {
-      "id": 8,
-      "imagen": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Game-Boy-FL.jpg",
-      "titulo": "Game Boy Classic",
-      "precio": "$ 60,00"
-    },
-    {
-      "id": 9,
-      "imagen": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Game-Boy-FL.jpg",
-      "titulo": "Game Boy Classic",
-      "precio": "$ 60,00"
-    },
-    {
-      "id": 10,
-      "imagen": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Game-Boy-FL.jpg",
-      "titulo": "Game Boy Classic",
-      "precio": "$ 60,00"
+      "id": "9200",
+      "imagen": "https://blog.latam.playstation.com/tachyon/sites/3/2023/10/e08941a3d4b8ac23d60cbf6304e829e2e7a775b7.png",
+      "titulo": "PlayStation 5",
+      "precio": "175,00 $"
     }
   ]
 }
